@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">七七口诀</string>
+    <string-array name="note_array">
+        <item>C调</item>
+        <item>D调</item>
+        <item>E调</item>
+        <item>F调</item>
+        <item>G调</item>
+        <item>A调</item>
+        <item>B调</item>
+    </string-array>
+    <string name="init_stop_watch_value">00:00:00</string>
+</resources>

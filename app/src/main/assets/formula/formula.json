@@ -1,0 +1,88 @@
+{
+  "payload": [
+    {
+      "note": "C",
+      "chords": {
+        "one": "C",
+        "two": "D",
+        "three": "E",
+        "four": "F",
+        "five": "G",
+        "six": "A",
+        "seven": "B"
+      }
+    },
+    {
+      "note": "D",
+      "chords": {
+        "one": "D",
+        "two": "E",
+        "three": "<sup>#</sup>F",
+        "four": "G",
+        "five": "A",
+        "six": "B",
+        "seven": "<sup>#</sup>C"
+      }
+    },
+    {
+      "note": "E",
+      "chords": {
+        "one": "E",
+        "two": "<sup>#</sup>F",
+        "three": "<sup>#</sup>G",
+        "four": "A",
+        "five": "B",
+        "six": "<sup>#</sup>C",
+        "seven": "<sup>#</sup>D"
+      }
+    },
+    {
+      "note": "F",
+      "chords": {
+        "one": "F",
+        "two": "G",
+        "three": "A",
+        "four": "<sup>b</sup>B",
+        "five": "C",
+        "six": "D",
+        "seven": "E"
+      }
+    },
+    {
+      "note": "G",
+      "chords": {
+        "one": "G",
+        "two": "A",
+        "three": "B",
+        "four": "C",
+        "five": "D",
+        "six": "E",
+        "seven": "<sup>#</sup>F"
+      }
+    },
+    {
+      "note": "A",
+      "chords": {
+        "one": "A",
+        "two": "B",
+        "three": "<sup>#</sup>C",
+        "four": "D",
+        "five": "E",
+        "six": "<sup>#</sup>F",
+        "seven": "<sup>#</sup>G"
+      }
+    },
+    {
+      "note": "B",
+      "chords": {
+        "one": "B",
+        "two": "<sup>#</sup>C",
+        "three": "<sup>#</sup>D",
+        "four": "E",
+        "five": "<sup>#</sup>F",
+        "six": "<sup>#</sup>G",
+        "seven": "<sup>#</sup>A"
+      }
+    }
+  ]
+}
